@@ -51,6 +51,10 @@ img {
     border-radius: 5px;
     margin-bottom: 15px;
 }
+p{
+    height: 100px;
+    overflow: scroll;
+}
 h2{
     text-align: center;
 }
