@@ -24,6 +24,7 @@ body {
     display: flex;
     justify-content: center;
     columns: 3;
+    text-align: center;
 }
 section{
     display: flex;
