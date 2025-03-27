@@ -52,8 +52,8 @@ img {
     margin-bottom: 15px;
 }
 p{
-    height: 100px;
-    overflow: scroll;
+    max-height: 100px;
+    overflow: auto;
 }
 h2{
     text-align: center;
