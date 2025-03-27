@@ -18,18 +18,17 @@ body {
     flex-direction: column;
     background-image: url(imagens/background.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     scroll-behavior: smooth;
     padding-top: 90px;
 }
-div{
+.container{
     display: flex;
     justify-content: center;
     columns: 3;
 }
 section{
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
     columns: 1;
