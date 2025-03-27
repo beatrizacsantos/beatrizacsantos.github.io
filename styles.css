@@ -10,7 +10,7 @@ h1{
     size: 300%;
 }
 header{
-    opacity: 0;
+    background: none;
 }
 body {
     display: flex;
