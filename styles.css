@@ -25,6 +25,7 @@ body {
     justify-content: center;
     columns: 3;
     text-align: center;
+    flex-wrap: wrap;
 }
 section{
     display: flex;
