@@ -1,0 +1,11 @@
+h1{
+    color: white;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    background-image: url(imagens/background.jpg);
+    background-repeat: repeat;
+    scroll-behavior: smooth;
+    padding-top: 90px;
+}
