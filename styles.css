@@ -7,13 +7,10 @@ h1{
     padding: 10px;
     text-align: center;
     color: brown;
+    size: 300%;
 }
 header{
-    display: flex;
-    flex-direction: column;
     opacity: 0;
-    background-repeat: repeat;
-    scroll-behavior: smooth;
 }
 body {
     display: flex;
@@ -22,6 +19,12 @@ body {
     background-repeat: repeat;
     scroll-behavior: smooth;
     padding-top: 90px;
+}
+section#produtos, section#cesto {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
 }
 article{
     display: flex;
