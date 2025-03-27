@@ -52,7 +52,7 @@ img {
     margin-bottom: 15px;
 }
 p{
-    max-height: 100px;
+    height: 100px;
     overflow: auto;
 }
 h2{
