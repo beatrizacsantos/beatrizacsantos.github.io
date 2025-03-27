@@ -16,9 +16,15 @@ body {
     display: flex;
     flex-direction: column;
     background-image: url(imagens/background.jpg);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
+    background-size: contain;
     scroll-behavior: smooth;
     padding-top: 90px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    columns: 3;
 }
 section{
     display: flex;
