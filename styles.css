@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 h1{
-    padding: 10px;
     text-align: center;
     color: brown;
     font-size: 500%;
@@ -52,7 +51,7 @@ img {
     margin-bottom: 15px;
 }
 p{
-    padding: 10px;
+    margin: 10px;
     height: 100px;
     overflow: auto;
 }
