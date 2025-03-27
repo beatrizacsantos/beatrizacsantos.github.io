@@ -8,7 +8,7 @@ h1{
     text-align: center;
     color: brown;
     size: 500%;
-    padding-bottom: 40px;
+    padding: 40px;
 }
 header{
     background: none;
@@ -17,10 +17,8 @@ body {
     display: flex;
     flex-direction: column;
     background-image: url(imagens/background.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
     scroll-behavior: smooth;
-    padding-top: 90px;
 }
 .container{
     display: flex;
@@ -29,6 +27,7 @@ body {
 }
 section{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     gap: 20px;
     columns: 1;
