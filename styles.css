@@ -20,7 +20,7 @@ body {
     scroll-behavior: smooth;
     padding-top: 90px;
 }
-section#produtos, section#cesto {
+section{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
