@@ -8,6 +8,13 @@ h1{
     text-align: center;
     color: brown;
 }
+header{
+    display: flex;
+    flex-direction: column;
+    background-image: url(imagens/background.jpg);
+    background-repeat: repeat;
+    scroll-behavior: smooth;
+}
 body {
     display: flex;
     flex-direction: column;
