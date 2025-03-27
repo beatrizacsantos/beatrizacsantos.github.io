@@ -30,7 +30,6 @@ section{
     flex-direction: column;
     justify-content: center;
     gap: 20px;
-    columns: 1;
 }
 article{
     display: flex;
@@ -42,7 +41,6 @@ article{
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
-    columns: 1;
 }
 img {
     width: 100%;
