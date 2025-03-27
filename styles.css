@@ -1,5 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 h1{
-    color: white;
+    padding: 10px;
+    text-align: center;
+    color: brown;
 }
 body {
     display: flex;
