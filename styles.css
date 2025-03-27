@@ -11,7 +11,7 @@ h1{
 header{
     display: flex;
     flex-direction: column;
-    background-image: url(imagens/background.jpg);
+    opacity: 0;
     background-repeat: repeat;
     scroll-behavior: smooth;
 }
